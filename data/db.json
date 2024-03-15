@@ -1,0 +1,34 @@
+{
+    "trips": [
+        {
+            "id": "1",
+            "title": "2 Night Stay in Venice",
+            "price": "$250"
+        },
+        {
+            "id": "2",
+            "title": "3 Night Stay in London",
+            "price": "$350"
+        },
+        {
+            "id": "3",
+            "title": "4 Night Stay in Rome",
+            "price": "$450"
+        },
+        {
+            "id": "4",
+            "title": "5 Night Stay in Paris",
+            "price": "$550"
+        },
+        {
+            "id": "5",
+            "title": "6 Night Stay in Barcelona",
+            "price": "$650"
+        },
+        {
+            "id": "6",
+            "title": "7 Night Stay in Shanghai",
+            "price": "$750"
+        }
+    ]
+}
