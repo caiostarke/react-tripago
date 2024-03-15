@@ -22,3 +22,18 @@
     margin-top: 10px;
     color: dimgrey;
 }
+
+.trip-list button{
+    padding: 10px 18px;
+    margin-left: 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(49, 134, 134);
+    cursor: pointer;
+    color: white;
+}
+
+.trip-list button:hover {
+    background-color: rgb(35, 105, 105);
+    transition: 0.2s;
+}
