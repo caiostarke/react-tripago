@@ -1,6 +1,16 @@
 .trip-list {
     width: 480px;
     margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.error {
+    background-color: rgb(138, 79, 79);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
 }
 
 .trip-list ul {
